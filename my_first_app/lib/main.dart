@@ -30,9 +30,9 @@ class _MyAppState extends State<MyApp> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text("$count"),
-            Text("Hi I am learning flutter",),
-          crossAxisAlignment: CrossAxisAlignment.center,
-          
+            Text(
+              "Hi I am learning flutter",
+            ),
           ],
         ),
       ),
