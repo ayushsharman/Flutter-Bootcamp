@@ -39,7 +39,7 @@ class ToDo extends StatelessWidget {
             borderRadius: BorderRadius.circular(12),
             boxShadow: [
               const BoxShadow(
-                color: Color.fromARGB(119, 0, 0, 0),
+                color: Color.fromARGB(123, 0, 0, 0),
               ),
             ],
           ),
