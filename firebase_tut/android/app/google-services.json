@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084055184597",
+    "project_id": "fir-tut-c5df8",
+    "storage_bucket": "fir-tut-c5df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084055184597:android:dbd3bbe075fdabed03ee5c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084055184597-o8a6590dd2fpp1o9c04rcbjc36bprkbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNaavd69vKt0Y2cdnn8zcOhX5F6CIBiZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084055184597-o8a6590dd2fpp1o9c04rcbjc36bprkbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
